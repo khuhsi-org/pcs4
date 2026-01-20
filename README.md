@@ -11,3 +11,13 @@ services.
 
 ## Diagrams
 (Architecture diagrams will be added here.)
+
+
+
+
+## Architecture Reference
+
+The overall PCS-based high availability architecture and design decisions
+are documented in the central architecture repository.
+
+➡️ Refer to: https://github.com/khushi-org/architecture-docs
