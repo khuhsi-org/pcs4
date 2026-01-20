@@ -15,9 +15,18 @@ services.
 
 
 
-## Architecture Reference
+## Project Repositories
 
-The overall PCS-based high availability architecture and design decisions
-are documented in the central architecture repository.
+Below are the main repositories for this project:
 
-➡️ Refer to: https://github.com/khushi-org/architecture-docs
+- PCS High Availability Gateway:  
+  https://github.com/khushi-org/pcs-ha-gateway
+- Cloud Deployment Documentation:  
+  https://github.com/khushi-org/cloud-deployment
+- Failure Testing & Validation:  
+  https://github.com/khushi-org/failure-testing
+
+## Diagrams
+
+All architecture diagrams are stored here:
+https://github.com/khushi-org/architecture-docs/tree/main/diagrams
